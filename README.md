@@ -6,7 +6,7 @@ Below is a curated list of the main free cybersecurity holiday events for the **
 
 > **Last updated:** November 17, 2026
 >
-> **Legend:** ✅ = dates confirmed by the organizer · 🕒 = not yet announced; dates follow the previous edition and may change. Always check the event page before planning.
+> **Legend:** ✅ = dates confirmed by the organizer · 🕒 = not yet announced; dates follow the previous edition and may change. Note that direct event URLs/subdomains for `🕒` events may return a `404` or redirect until the organizer launches the 2026 page.
 
 ## Cybersecurity events
 
@@ -15,11 +15,11 @@ Below is a curated list of the main free cybersecurity holiday events for the **
 | **SANS – Holiday Hack Challenge (HHC)** | General                   | TBA (not open yet)  | Jan 5, 2027 ✅       | [Holiday Hack Challenge](https://www.sans.org/cyber-ranges/holiday-hack-challenge) |
 | **TryHackMe – Advent of Cyber (AoC)**   | General                   | Dec 1, 2026 🕒       | Dec 24, 2026 🕒      | [Advent of Cyber](https://tryhackme.com/adventofcyber26)                           |
 | **⮑ Advent of Cyber (AoC) Side Quest**  | General                   | Dec 1, 2026 🕒       | Dec 24, 2026 🕒      | [Advent of Cyber Side Quest](https://tryhackme.com/adventofcyber26/sidequest)      |
-| **pwn.college – Advent of Pwn**         | Binary Exploitation (Pwn) | Dec 1, 2026 🕒       | Dec 12, 2026 🕒      | [Advent of PWN](https://pwn.college/advent-of-pwn/)                                |
+| **pwn.college – Advent of Pwn**         | Binary Exploitation (Pwn) | Dec 1, 2026 ✅       | Dec 25, 2026 ✅      | [Advent of Pwn](https://www.lowlevel.academy/)                                     |
 | **Root-Me – Root-XMAS**                 | General                   | Dec 1, 2026 🕒       | Dec 24, 2026 🕒      | [Root-XMAS](https://ctf.xmas.root-me.org/)                                         |
-| **Cyberstudents - Advent of CTF**       | General                   | Dec 1, 2026 🕒       | Dec 25, 2026 🕒      | [Advent of CTF](https://cyberstudents.net/advent)                                  |
-| **OSINT4Fun - Advent of OSINT**         | OSINT                     | Dec 1, 2026 🕒       | Dec 24, 2026 🕒      | [Advent of OSINT](https://www.osint4fun.eu/)                                       |
-| **STAR Labs - Hex Advent**              | General                   | Dec 1, 2026 🕒       | Dec 31, 2026 🕒      | [Hex Advent](https://hex-advent.starlabs.sg/)                                      |
+| **CyberStudents – Advent of CTF**       | General                   | Dec 1, 2026 🕒       | Dec 25, 2026 🕒      | [Advent of CTF](https://cyberstudents.net/advent)                                  |
+| **OSINT4Fun – Advent of OSINT**         | OSINT                     | Dec 1, 2026 🕒       | Dec 24, 2026 🕒      | [Advent of OSINT](https://www.osint4fun.eu/)                                       |
+| **STAR Labs – Hex Advent**              | General                   | Dec 1, 2026 🕒       | Dec 31, 2026 🕒      | [Hex Advent](https://hex-advent.starlabs.sg/)                                      |
 | **Flagvent**                            | General                   | Dec 1, 2026 🕒       | Dec 25, 2026 🕒      | [Flagvent](https://flagvent.org/)                                                  |
 
 ## Other holiday-season security events
@@ -33,19 +33,19 @@ Below is a curated list of the main free cybersecurity holiday events for the **
 
 Not into security? These holiday-season challenges are free and run on the same advent-calendar idea.
 
-| Event Name                          | Focus Area                      | Start Date         | End Date           | Link                                                           |
-|-------------------------------------|---------------------------------|--------------------|--------------------|----------------------------------------------------------------|
-| **Everybody Codes**                 | Programming / algorithms        | Oct 26, 2026 ✅     | Nov 20, 2026 ✅     | [Everybody Codes](https://everybody.codes/home)                |
-| **Kaggle – Santa Competition**      | Optimization / data science     | Nov 17, 2026 🕒     | Jan 29, 2027 🕒     | [Kaggle Competitions](https://www.kaggle.com/competitions)     |
-| **Advent of Code**                  | Programming / algorithms        | Dec 1, 2026 ✅      | TBA (Dec 12 in 2025) | [Advent of Code](https://adventofcode.com/)                  |
-| **Advent of Sysadmin (SadServers)** | Linux / DevOps                  | Dec 1, 2026 🕒      | Dec 12, 2026 🕒     | [Advent of Sysadmin](https://sadservers.com/advent)            |
-| **AdventJS**                        | JavaScript / TypeScript / Python | Dec 1, 2026 ✅     | Dec 24, 2026 ✅     | [AdventJS](https://adventjs.dev/en)                            |
-| **Advent of Rust**                  | Rust                            | Dec 1, 2026 ✅      | Dec 25, 2026 ✅     | [Advent of Rust](https://www.rustfinity.com/advent-of-rust)    |
-| **Advent of CSS**                   | CSS / front-end                 | Dec 1, 2026 🕒      | Dec 24, 2026 🕒     | [Advent of CSS](https://www.adventofcss.com/)                  |
-| **Advent of JavaScript**            | JavaScript mini-projects        | Dec 1, 2026 🕒      | Dec 24, 2026 🕒     | [Advent of JavaScript](https://www.adventofjs.com/)            |
-| **Hanukkah of Data**                | Data / SQL detective puzzles    | Dec 4, 2026 🕒      | Dec 12, 2026 🕒     | [Hanukkah of Data](https://hanukkah.bluebird.sh/)              |
-| **AI Advent Challenge**             | Practical AI skills             | Dec 1, 2026 ✅      | Dec 25, 2026 ✅     | [AI Advent Challenge](https://aiadventchallenge.com/)          |
-| **Genuary**                         | Generative art with code        | Jan 1, 2027 🕒      | Jan 31, 2027 🕒     | [Genuary](https://genuary.art/)                                |
+| Event Name                          | Focus Area                       | Start Date         | End Date           | Link                                                           |
+|-------------------------------------|----------------------------------|--------------------|--------------------|----------------------------------------------------------------|
+| **Everybody Codes**                 | Programming / algorithms         | Oct 26, 2026 ✅     | Nov 20, 2026 ✅     | [Everybody Codes](https://everybody.codes/home)                |
+| **Kaggle – Santa Competition**      | Optimization / data science      | Nov 17, 2026 🕒     | Jan 29, 2027 🕒     | [Kaggle Competitions](https://www.kaggle.com/competitions)     |
+| **Advent of Code**                  | Programming / algorithms         | Dec 1, 2026 ✅      | Dec 12, 2026 🕒     | [Advent of Code](https://adventofcode.com/)                  |
+| **Advent of Sysadmin (SadServers)** | Linux / DevOps                   | Dec 1, 2026 🕒      | Dec 12, 2026 🕒     | [Advent of Sysadmin](https://sadservers.com/advent)            |
+| **AdventJS**                        | JavaScript / TypeScript / Python | Dec 1, 2026 ✅      | Dec 24, 2026 ✅     | [AdventJS](https://adventjs.dev/en)                            |
+| **Advent of Rust**                  | Rust                             | Dec 1, 2026 ✅      | Dec 25, 2026 ✅     | [Advent of Rust](https://www.rustfinity.com/advent-of-rust)    |
+| **Advent of CSS**                   | CSS / front-end                  | Dec 1, 2026 🕒      | Dec 24, 2026 🕒     | [Advent of CSS](https://www.adventofcss.com/)                  |
+| **Advent of JavaScript**            | JavaScript mini-projects         | Dec 1, 2026 🕒      | Dec 24, 2026 🕒     | [Advent of JavaScript](https://www.adventofjs.com/)            |
+| **Hanukkah of Data**                | Data / SQL detective puzzles     | Dec 4, 2026 🕒      | Dec 12, 2026 🕒     | [Hanukkah of Data](https://hanukkah.bluebird.sh/)              |
+| **AI Advent Challenge**             | Practical AI skills              | Dec 1, 2026 ✅      | Dec 25, 2026 ✅     | [AI Advent Challenge](https://aiadventchallenge.com/)          |
+| **Genuary**                         | Generative art with code         | Jan 1, 2027 🕒      | Jan 31, 2027 🕒     | [Genuary](https://genuary.art/)                                |
 
 ## Contributing
 
