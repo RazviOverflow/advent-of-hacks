@@ -28,19 +28,10 @@ Not into security? These holiday-season challenges are free and run on the same 
 
 | Event Name                          | Focus Area                       | Start Date         | End Date           | Link                                                           |
 |-------------------------------------|----------------------------------|--------------------|--------------------|----------------------------------------------------------------|
-| **Everybody Codes**                 | Programming / algorithms         | Oct 26, 2026 ✅     | Nov 20, 2026 ✅     | [Everybody Codes](https://everybody.codes/home)                |
-| **Kaggle – Santa Competition**      | Optimization / data science      | Nov 17, 2026 🕒     | Jan 29, 2027 🕒     | [Kaggle Competitions](https://www.kaggle.com/competitions)     |
 | **Advent of Code**                  | Programming / algorithms         | Dec 1, 2026 ✅      | Dec 12, 2026 🕒     | [Advent of Code](https://adventofcode.com/)                  |
-| **Advent of Sysadmin (SadServers)** | Linux / DevOps                   | Dec 1, 2026 🕒      | Dec 12, 2026 🕒     | [Advent of Sysadmin](https://sadservers.com/advent)            |
-| **AdventJS**                        | JavaScript / TypeScript / Python | Dec 1, 2026 ✅      | Dec 24, 2026 ✅     | [AdventJS](https://adventjs.dev/en)                            |
-| **Advent of Rust**                  | Rust                             | Dec 1, 2026 ✅      | Dec 25, 2026 ✅     | [Advent of Rust](https://www.rustfinity.com/advent-of-rust)    |
-| **Advent of TypeScript**            | TypeScript                       | Dec 1, 2026 🕒      | Dec 25, 2026 🕒     | [Advent of TypeScript](https://www.adventofts.com/)            |
-| **Advent of CSS**                   | CSS / front-end                  | Dec 1, 2026 🕒      | Dec 24, 2026 🕒     | [Advent of CSS](https://www.adventofcss.com/)                  |
-| **Advent of JavaScript**            | JavaScript mini-projects         | Dec 1, 2026 🕒      | Dec 24, 2026 🕒     | [Advent of JavaScript](https://www.adventofjs.com/)            |
-| **Hanukkah of Data**                | Data / SQL detective puzzles     | Dec 4, 2026 🕒      | Dec 12, 2026 🕒     | [Hanukkah of Data](https://hanukkah.bluebird.sh/)              |
+| **Advent of Sysadmin (SadServers)** | Linux / DevOps                   | Dec 1, 2026 🕒      | Dec 12, 2026 🕒     | [Advent of Sysadmin](https://sadservers.com/advent)            |                           |
+| **Advent of Rust**                  | Rust                             | Dec 1, 2026 ✅      | Dec 25, 2026 ✅     | [Advent of Rust](https://www.rustfinity.com/advent-of-rust)    |       |                |        |
 | **AI Advent Challenge**             | Practical AI skills              | Dec 1, 2026 ✅      | Dec 25, 2026 ✅     | [AI Advent Challenge](https://aiadventchallenge.com/)          |
-| **Genuary**                         | Generative art with code         | Jan 1, 2027 🕒      | Jan 31, 2027 🕒     | [Genuary](https://genuary.art/)                                |
-
 ## Contributing
 
 Know an event that's missing, or have updated dates? Open an issue or a pull request.
